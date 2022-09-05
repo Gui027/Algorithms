@@ -4,7 +4,7 @@ def contar(letra, palavra):
         if x == letra:
             count += 1
     return count
-    
+
 
 def is_anagram(first_string, second_string):
     if len(first_string) != len(second_string):
