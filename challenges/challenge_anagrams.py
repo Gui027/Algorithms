@@ -1,3 +1,4 @@
+# https://www.youtube.com/watch?v=MILWMKZVvfo&t=810s
 def contar(letra, palavra):
     count = 0
     for x in palavra:
