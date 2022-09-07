@@ -1,16 +1,25 @@
-# 🚧 README em construção 🚧
+# Projeto Algorithms
 
-<!-- Olá, Tryber!
+# Contexto
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+Neste projeto resolvi problemas e otimizei algoritmos desenvolvendo a minha capacidade de implementar soluções para os mais diversos problemas do dia a dia!
 
-É essencial que você preencha esse documento por conta própria, ok?
+## Técnologias usadas
 
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
+Back-end:
+> Desenvolvido usando: Python, Pip, Flake8
 
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
 
--->
+## Instalando Dependências
+
+```bash
+$ python3 -m pip install -r dev-requirements.txt
+``` 
+
+## Executando Testes
+
+* Para rodar todos os testes:
+
+  ```
+   $ python3 -m pytest
+  ```
